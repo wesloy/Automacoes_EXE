@@ -1,0 +1,150 @@
+<Bugs>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.AutomationElementTests.TestSetFocus1a" TestName="SetFocus.1" Pri="Pri1">
+    <Steps>
+      <Step Step="0">Precondition: Some controls are not persisted after they loose focus (ie, Floating edit in Excel), don't tests these</Step>
+      <Step Step="1">Precondition: Verify that the element is enabled</Step>
+      <Step Step="2">Precondition: Verify that the element's IsOffScreen = false</Step>
+      <Step Step="3">Precondition: Verify that this control supports SetFocus tests</Step>
+      <Step Step="4">Precondition: Verify that the object's IsFocusableProperty == true</Step>
+      <Step Step="5">Step: Ensure the AutomationElement does not have focus by calling SetFocus(RANDOM)</Step>
+      <Step Step="6">Step: Verify that the AutomationElement's HasKeyboardFocusProperty == false</Step>
+      <Step Step="7">Precondition: Verify that the object's IsFocusableProperty is still true</Step>
+      <Step Step="8">Step: Add FocusChangedListener event on the AutomationElement</Step>
+      <Step Step="9">Step: Call SetFocus(AutomationElement)</Step>
+      <Step Step="10">Step: Verify that the element or one of it's children have the focus now</Step>
+      <Step Step="11">Step: Wait for events</Step>
+      <Step Step="12">Step: Verify that AutomationElement or one of it's children fired the FocusChangeEvent, or if the AutomationElement is a title bar, then the child in the application</Step>
+    </Steps>
+    <FailedStep Step="10">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Step 10 : There were no element or its children that had focus" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:41" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.AutomationElementTests.TestSetFocus3" TestName="SetFocus.3" Pri="Pri1">
+    <Steps>
+      <Step Step="0">Precondition: Some controls are not persisted after they loose focus (ie, Floating edit in Excel), don't tests these</Step>
+      <Step Step="1">Precondition: Verify that the element is enabled</Step>
+      <Step Step="2">Precondition: Verify that the element's IsOffScreen = false</Step>
+      <Step Step="3">Precondition: Verify that this control supports SetFocus tests</Step>
+      <Step Step="4">Precondition: Verify that the object's IsFocusableProperty == true</Step>
+      <Step Step="5">Step: Ensure the AutomationElement does not have focus by calling SetFocus(AutomationElement.RootElement.FirstChild)</Step>
+      <Step Step="6">Step: Verify that the AutomationElement's HasKeyboardFocusProperty == false</Step>
+      <Step Step="7">Step: Add FocusChangedListener event on the AutomationElement</Step>
+      <Step Step="8">Step: Call and verify that SetFocus(AutomationElement) returns true</Step>
+      <Step Step="9">Step: Wait for events</Step>
+      <Step Step="10">Step: Verify that AutomationElement or child fired the FocusChangeEvent, or if the AutomationElement is a title bar, then the child in the application</Step>
+      <Step Step="11">Step: Verify that the AutomationElement's HasKeyboardFocusProperty == true</Step>
+    </Steps>
+    <FailedStep Step="10">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Step 10 : Focus event was not fired and was expected to be fired" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:45" />
+      </Issue>
+    </FailedStep>
+    <FailedStep Step="11">
+      <Issue Verification="Check_IsButton">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="Button(NULL)" Error="Step 11 : Could not find any element or child whos property is &quot;AutomationElementIdentifiers.HasKeyboardFocusProperty&quot; is &quot;True&quot;" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="06/06/2015 15:53:20" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Controls.TitleBarControlTests.GetBoundingRect1" TestName="GetBoundingRect.1" Pri="Pri1">
+    <Steps>
+      <Step Step="0">Verify: BoundingRect of all the children of the titlebar are within the parent, and that all BoundingRectangles Width and Hieght are not zero</Step>
+    </Steps>
+    <FailedStep Step="0">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Step 0 : Sistemas BoundingRectangle is not within the parents BoundingRectangle" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:46" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="InternalHelper.Tests.ControlObject.TestControlProperties" TestName="TestControlProperties" Pri="Pri2">
+    <Steps>
+      <Step Step="0">Test the control's properties</Step>
+    </Steps>
+    <FailedStep Step="0">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Step 0 : AutomationElement.AcceleratorKeyProperty :  was expected to return null but returned ()" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:46" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.ValueTests.TestSetValue11" TestName="ValuePattern.SetValue.S.1.1" Pri="Pri0">
+    <Steps>
+      <Step Step="0">Precondition: Verify ReadOnly = false</Step>
+      <Step Step="1">Step: Get the value of the current Value</Step>
+      <Step Step="2">Step: Verify that the old value does not equal the new random value</Step>
+      <Step Step="3">Step: Add event that will catch PropertyChangeEvent</Step>
+      <Step Step="4">Step: Set the value of the pattern to the random valid value according to the AutomationElement.ControlTypeProperty</Step>
+      <Step Step="5">Step: Wait for PropertyChangeEvent</Step>
+      <Step Step="6">Verify that the PropertyChangeEvent event is fired and the random string is passed into the event</Step>
+      <Step Step="7">Verify that Value is set correctly to the new value</Step>
+    </Steps>
+    <FailedStep Step="0">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Need to handle TitleBar" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:46" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.ValueTests.TestSetValue13" TestName="ValuePattern.SetValue.S.1.3" Pri="Pri0">
+    <Steps>
+      <Step Step="0">Precondition: Verify ReadOnly = false</Step>
+      <Step Step="1">Step: Get the value of the current Value</Step>
+      <Step Step="2">Step: Verify that the old value does not equal to very large string</Step>
+      <Step Step="3">Step: Add event that will catch PropertyChangeEvent</Step>
+      <Step Step="4">Step: Set the value of the pattern to the very large string</Step>
+      <Step Step="5">Step: Step: Wait for event</Step>
+      <Step Step="6">Verify that the PropertyChangeEvent event is fired and the random string is passed into the event</Step>
+      <Step Step="7">Verify that Value is set correctly to the new value</Step>
+    </Steps>
+    <FailedStep Step="0">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Need to handle TitleBar" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:48" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.ValueTests.TestSetValue17" TestName="ValuePattern.SetValue.S.1.7" Pri="Pri0">
+    <Steps>
+      <Step Step="0">Precondition: Verify ReadOnly = false</Step>
+      <Step Step="1">Step: Get the value of the current Value</Step>
+      <Step Step="2">Step: Verify that the old value does not equal to small string</Step>
+      <Step Step="3">Step: Add event that will catch PropertyChangeEvent</Step>
+      <Step Step="4">Step: Set the value of the pattern to the very large string</Step>
+      <Step Step="5">Step: Step: Wait for event</Step>
+      <Step Step="6">Verify that the PropertyChangeEvent event is fired and the random string is passed into the event</Step>
+      <Step Step="7">Verify that Value is set correctly to the new value</Step>
+    </Steps>
+    <FailedStep Step="0">
+      <Issue Verification="Check_IsTitleBar">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="TitleBar(NULL)" Error="Need to handle TitleBar" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="01/06/2015 02:52:48" />
+      </Issue>
+    </FailedStep>
+  </Test>
+  <!--________________________________________________________________________________________________________________________-->
+  <Test Method="Microsoft.Test.UIAutomation.Tests.Patterns.AutomationElementTests.AutomationIdProperty178" TestName="AutomationIdProperty.1.7.8" Pri="Pri1">
+    <Steps>
+      <Step Step="0">PreCondition: Element must support ControlType property to determine if supporting ControlType is required</Step>
+      <Step Step="1">Precondition: Element does not support the WindowPattern, thus is not a window</Step>
+      <Step Step="2">Precondition: IsControlElementProperty == true</Step>
+      <Step Step="3">Precondition: ControlType != ListItem (known item that does not support AutomationIdProperty)</Step>
+      <Step Step="4">Precondition: ControlType != DataItem (known item that does not support AutomationIdProperty)</Step>
+      <Step Step="5">Precondition: ControlType != TreeItem (known item that does not support AutomationIdProperty)</Step>
+      <Step Step="6">Precondition: ControlType != TabViewItem (known item that does not support AutomationIdProperty)</Step>
+      <Step Step="7">Precondition: ControlType != TitleBar (known item that does not support AutomationIdProperty)</Step>
+      <Step Step="8">Precondition: Parent's ControlType != ListItem(known item that does not support AutomationIdProperty)</Step>
+      <Step Step="9">Precondition: Parent's ControlType != DataItem(known item that does not support AutomationIdProperty)</Step>
+      <Step Step="10">Verify: AutomationIdProperty != string.Empty</Step>
+      <Step Step="11">Verify: AutomationIdProperty != 0</Step>
+    </Steps>
+    <FailedStep Step="10">
+      <Issue Verification="Check_IsButton">
+        <Repro OS="6.1" ClientSideProvider="T" PS="TBD" ControlPath="Button(NULL)" Error="10). Verify: AutomationIdProperty != string.Empty" CommandLine="" OSVersion="Microsoft Windows NT 6.1.7601 Service Pack 1" Date="06/06/2015 15:53:09" />
+      </Issue>
+    </FailedStep>
+  </Test>
+</Bugs>

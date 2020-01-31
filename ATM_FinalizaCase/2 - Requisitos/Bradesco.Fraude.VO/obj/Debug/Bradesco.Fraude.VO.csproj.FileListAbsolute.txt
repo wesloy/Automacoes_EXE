@@ -1,0 +1,12 @@
+C:\Users\joniclebermg\OneDrive - Grupo Algar\Projetos 2018\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\obj\Debug\Bradesco.Fraude.VO.csprojResolveAssemblyReference.cache
+C:\Users\joniclebermg\OneDrive - Grupo Algar\Projetos 2018\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\obj\Debug\Bradesco.Fraude.VO.csproj.CoreCompileInputs.cache
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\bin\Debug\stdole.dll
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\obj\Debug\Bradesco.Fraude.VO.csprojResolveAssemblyReference.cache
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\obj\Debug\Bradesco.Fraude.VO.csproj.CoreCompileInputs.cache
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\obj\Debug\Bradesco.Fraude.VO.dll
+C:\Projetos\Bradesco - Fraudes - Componentes\4 - Implementacao\Bradesco.Fraude.Componentes_Access\Bradesco.Fraude.VO\obj\Debug\Bradesco.Fraude.VO.pdb

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ATM_CaseManager
+</name>
+</assembly>
+<members>
+<member name="T:ATM_CaseManager.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ATM_CaseManager.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ATM_CaseManager.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ATM_CaseManager.funcoes_CM">
+ <summary>
+ Exemplo de utilização da biblioteca... White.Core.UIItems.WindowItems
+ https://www.codeproject.com/articles/289028/white-an-ui-automation-tool-for-windows-applicatio
+ </summary>
+</member>
+<member name="M:ATM_CaseManager.frmGestorImportacao.Executar_thread_1">
+ <summary>
+ Execução de todas as threads da aplicação
+ </summary>
+</member>
+<member name="M:ATM_CaseManager.frmGestorImportacao.thread_1_procedimentos">
+ <summary>
+ Region de chamada dos STEPs e retornos
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ATM_CaseManager.frmGestorImportacao.step_1">
+ <summary>
+ Logar e capturar dados do CASE MANAGER
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:ATM_CaseManager.frmGestorImportacao.step_2(System.String)">
+ <summary>
+ Função de Importação do arquivo extraído do CM
+ O caminho do arquivo é fornecido do STEP 1 após o termino de seu processo, caso ocorra tudo certo
+ </summary>
+ <param name="caminho"></param>
+ <returns></returns>
+</member>
+</members>
+</doc>

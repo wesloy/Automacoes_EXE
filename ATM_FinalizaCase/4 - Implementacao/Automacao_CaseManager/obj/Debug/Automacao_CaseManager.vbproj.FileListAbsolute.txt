@@ -1,0 +1,380 @@
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.pdb
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.pdb
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\a058572\Documents\Jonicleber\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\A053463\Documents\Desenvolvimentos\VB\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\a053463\Downloads\Automacao_CaseManager\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.CoreCompileInputs.cache
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Projetos\CaseManager\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\a053463\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\A003440\Downloads\CaseNovo\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll.config
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.CoreCompileInputs.cache
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe.config
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.exe
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.xml
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.exe
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_CaseManager.xml
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.pdb
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\A003440\Downloads\CaseNovoCorrigido\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.exe.config
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.exe
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.CoreCompileInputs.cache
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_GestorManager.exe
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_GestorManager.xml
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_GestorManager.pdb
+C:\Users\joniclebermg\Documents\Case Manager 23-04-2018\ArtefatoFinalizad\Artefatos\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.exe.config
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.exe
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.pdb
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Automacao_GestorManager.xml
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.pdb
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraudes.Componentes.WSReferences.dll.config
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.Util.pdb
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.CoreCompileInputs.cache
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_GestorManager.exe
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_GestorManager.xml
+C:\Projetos\GestorManager2105\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_GestorManager.pdb
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.1.exe.config
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.1.exe
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.1.pdb
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.1.xml
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.1.exe
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.1.xml
+C:\Users\A003440\Downloads\GestorManager 21-05-2018\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.1.pdb
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe.config
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\A003440\Downloads\Case 13062018\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe.config
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.CoreCompileInputs.cache
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Projetos\CaseManager 12-06-2018\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe.config
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\a058572\Downloads\CaseVersionado\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe.config
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.pdb
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\White.Core.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.Core.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bricks.RuntimeFramework.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\log4net.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Bradesco.Fraude.VO.pdb
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\RestSharp.xml
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Utilitario.pdb
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbprojResolveAssemblyReference.cache
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Frm_Applicacao.resources
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.Resources.resources
+C:\Users\a058572\Documents\svn_root\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Automacao_CaseManager.vbproj.GenerateResource.Cache
+C:\Users\a058572\Documents\svn\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\bin\Debug\Auto Gestor Manager 1.2.2.exe.config
+C:\Users\a058572\Documents\svn\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.exe
+C:\Users\a058572\Documents\svn\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.xml
+C:\Users\a058572\Documents\svn\ATM_FinalizaCase\4 - Implementacao\Automacao_CaseManager\obj\Debug\Auto Gestor Manager 1.2.2.pdb
